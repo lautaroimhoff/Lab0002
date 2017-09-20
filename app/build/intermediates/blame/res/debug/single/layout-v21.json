@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab02\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Francisco\\.android\\build-cache\\7f5915fb71adc59ebc4599919fff633c28d0d038\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lautaro\\.android\\build-cache\\aa5e1f31adc402b5b4d4225bfa35a300588118cf\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Lautaro\\.android\\build-cache\\aa5e1f31adc402b5b4d4225bfa35a300588118cf\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab02\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Francisco\\.android\\build-cache\\7f5915fb71adc59ebc4599919fff633c28d0d038\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab02\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Francisco\\.android\\build-cache\\7f5915fb71adc59ebc4599919fff633c28d0d038\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Lautaro\\.android\\build-cache\\aa5e1f31adc402b5b4d4225bfa35a300588118cf\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lautaro\\.android\\build-cache\\aa5e1f31adc402b5b4d4225bfa35a300588118cf\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab02\\Lab02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Francisco\\.android\\build-cache\\7f5915fb71adc59ebc4599919fff633c28d0d038\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

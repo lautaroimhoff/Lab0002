@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Lautaro\Documents\Lab02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac8543c874db004b1a10f584287aa88a8a2393c0">
+        <dex dex="D:\Users\Lautaro\Documents\Lab02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f02e7a9a6a5480bd2f70ee3b06807b40abfeaa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Lautaro\Documents\Lab02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Users\Lautaro\Documents\Lab02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2122005116b8154abe45cbb7004463e7e3a56280\classes.dex" />
+    </item>
+
+</items>
